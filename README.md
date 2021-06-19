@@ -7,7 +7,7 @@ ulkomaalaisiin toimijoihin tai kaikkien kryptovaluuttojen konsepti on ollut sinu
 Älä enää ikinä koe hämminkiä sellaisten rahvaanomaisten konseptien kanssa kuin käteinen ja vaihtoraha.
 Tue suomalaista artesaanikoodia ja luota Suomen IT-alan parhaiten integroituun maahanmuuttajaan! 
 
-Tonninsetelicoin on uusi kryptovaluutta, joita on tasan yksi kappale olemassa kerrallaan maailmassa. 
+Tonninsetelicoin on uusi kryptovaluutta, jota on tasan yksi kappale olemassa kerrallaan maailmassa. 
 Siirtokustannus osapuolten välillä on aina tasan tuhat euroa, joten ei tarvitse pelätä inflaation tai arvon nousun
 vaikutuksia tämän valuutan käyttöpotentiaaliin, hinta on aina vakio!
 
