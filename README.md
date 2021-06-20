@@ -13,8 +13,7 @@ vaikutuksia tämän valuutan käyttöpotentiaaliin, hinta on aina vakio!
 
 ## Kuinka se toimii?
 
-Tonninsetelicoin on tällä hetkellä rekisterinpitäjän hallussa. Ostaaksesi tämän ainutlaatuisen kryptovaluutan, 
-siirrä 1000€ OP-tilille FI83 5290 0220 3919 97 tai laita MobilePaylla numeroon +(kolmeviiskasi) 40 410 8976.
+Tonninsetelicoin on tällä hetkellä rekisterinpitäjän hallussa. Ostaaksesi tämän ainutlaatuisen kryptovaluutan, polta 1000€ ja mieti, mitä tuli just tehtyä.
 
 1-3 pankkipäivän kuluessa sinut merkitään [Ledgerissä](https://github.com/httpsterio/tonninsetelicoin/blob/master/ledger.md)
 omistajaksi.
